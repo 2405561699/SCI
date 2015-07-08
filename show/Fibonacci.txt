@@ -27,3 +27,4 @@ int c = -1;
 read c;
 c = fun(c);
 write c;
+write c;
